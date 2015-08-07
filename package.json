@@ -1,0 +1,26 @@
+{
+  "name": "mock-usb",
+  "version": "0.0.0",
+  "description": "a minimal mock of node-usb for your testing needs",
+  "main": "mock-usb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noopkat/mock-usb.git"
+  },
+  "keywords": [
+    "usb",
+    "mock",
+    "mock",
+    "usb",
+    "node-usb"
+  ],
+  "author": "Suz Hinton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noopkat/mock-usb/issues"
+  },
+  "homepage": "https://github.com/noopkat/mock-usb#readme"
+}
