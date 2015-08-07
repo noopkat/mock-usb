@@ -25,7 +25,7 @@ Void and empty function.
 
 Ignores any args passed in. Returns a device object with the following signature:
 
-```json
+```javascript
 {
 	interfaces: [],
 	 __open: [Function],
@@ -38,16 +38,16 @@ Ignores any args passed in. Returns a device object with the following signature
 
 Pushes two minimal endpoint objects to the interfaces array with the following signature:
 
-```json
+```javascript
 {
   endpoints: [
    {
      direction: 'in',
-     transfer:  [Function]       
+     transfer:  [Function]
     },
     {
       direction: 'out',
-      transfer: [Function] 
+      transfer: [Function]
     }
   ]
 }
