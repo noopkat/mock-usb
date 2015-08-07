@@ -1,6 +1,6 @@
 {
   "name": "mock-usb",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a minimal mock of node-usb for your testing needs",
   "main": "mock-usb.js",
   "scripts": {
